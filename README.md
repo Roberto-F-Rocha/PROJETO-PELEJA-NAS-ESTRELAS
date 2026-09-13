@@ -2,6 +2,8 @@
 
 Um jogo de ação em navegador inspirado na paisagem, nas cores e no imaginário do sertão nordestino. Pilote a **Nave Carcará**, atravesse cinco pelejas e derrote o **Coronel do Vazio**.
 
+## [Jogar agora](https://peleja-nas-estrelas-roberto.roberto-fernandes-ro.chatgpt.site)
+
 ## Como jogar
 
 - **WASD** ou **setas**: mover a nave
